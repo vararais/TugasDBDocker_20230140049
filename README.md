@@ -15,14 +15,14 @@ Tampilan Web Sendiri DOCKER
 
 ---
 
-Tampilan Web Teman (20230140011) M Sidiq
+Tampilan Web Teman (20230140013) Fairuz
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-21 154235" src="https://github.com/user-attachments/assets/298c647e-4484-4f8b-b3bb-3e2e4ad47174" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2dcc8e76-23a2-4bab-af09-5ca606a696fb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0dca16b6-bd2e-43fa-a24f-d12c100e1584" />
 
 ---
 
 Tampilan DOCKER Web Teman (20230140011) M Sidiq
 
-<img width="1920" height="1080" alt="Screenshot 2026-04-21 154127" src="https://github.com/user-attachments/assets/03fa6857-33dd-4329-ad7e-ed7ec734d875" />
-<img width="1920" height="1080" alt="Screenshot 2026-04-21 154136" src="https://github.com/user-attachments/assets/ad52734b-d050-409c-9dd3-543ca55a70b9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65b6e722-6c6e-4798-9a78-7d1d911f787d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55ad3be6-d3d3-405f-9215-6262b5a53f56" />
+
